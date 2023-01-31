@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\bin\Release\net6.0\Funcoes.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\bin\Release\net6.0\Funcoes.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\bin\Release\net6.0\Funcoes.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\bin\Release\net6.0\Funcoes.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\bin\Release\net6.0\Funcoes.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\Funcoes.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\Funcoes.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\Funcoes.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\refint\Funcoes.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\Funcoes.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\Funcoes.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Funcoes\obj\Release\net6.0\ref\Funcoes.dll

@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\bin\Debug\net6.0\ConversaoCasting.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\bin\Debug\net6.0\ConversaoCasting.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\bin\Debug\net6.0\ConversaoCasting.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\bin\Debug\net6.0\ConversaoCasting.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\bin\Debug\net6.0\ConversaoCasting.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\ConversaoCasting.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\ConversaoCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\ConversaoCasting.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\ConversaoCasting.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\ConversaoCasting.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\ConversaoCasting.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\refint\ConversaoCasting.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\ConversaoCasting.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\ConversaoCasting.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ConversaoCasting\obj\Debug\net6.0\ref\ConversaoCasting.dll

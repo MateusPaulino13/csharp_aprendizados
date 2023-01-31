@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\bin\Debug\net6.0\OperadoresLogicos.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\refint\OperadoresLogicos.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\OperadoresLogicos\obj\Debug\net6.0\ref\OperadoresLogicos.dll

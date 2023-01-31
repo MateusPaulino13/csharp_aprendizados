@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\bin\Debug\net6.0\ProblemWithoutPoo.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\bin\Debug\net6.0\ProblemWithoutPoo.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\bin\Debug\net6.0\ProblemWithoutPoo.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\bin\Debug\net6.0\ProblemWithoutPoo.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\bin\Debug\net6.0\ProblemWithoutPoo.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\ProblemWithoutPoo.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\ProblemWithoutPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\ProblemWithoutPoo.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\ProblemWithoutPoo.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\ProblemWithoutPoo.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\ProblemWithoutPoo.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\refint\ProblemWithoutPoo.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\ProblemWithoutPoo.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\ProblemWithoutPoo.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProblemWithoutPoo\obj\Debug\net6.0\ref\ProblemWithoutPoo.dll

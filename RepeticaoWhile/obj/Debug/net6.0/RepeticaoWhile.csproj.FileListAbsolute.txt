@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\bin\Debug\net6.0\RepeticaoWhile.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\bin\Debug\net6.0\RepeticaoWhile.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\bin\Debug\net6.0\RepeticaoWhile.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\bin\Debug\net6.0\RepeticaoWhile.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\bin\Debug\net6.0\RepeticaoWhile.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\RepeticaoWhile.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\RepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\RepeticaoWhile.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\RepeticaoWhile.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\RepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\RepeticaoWhile.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\refint\RepeticaoWhile.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\RepeticaoWhile.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\RepeticaoWhile.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoWhile\obj\Debug\net6.0\ref\RepeticaoWhile.dll

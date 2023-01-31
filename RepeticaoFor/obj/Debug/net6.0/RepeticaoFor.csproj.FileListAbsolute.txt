@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\bin\Debug\net6.0\RepeticaoFor.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\bin\Debug\net6.0\RepeticaoFor.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\bin\Debug\net6.0\RepeticaoFor.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\bin\Debug\net6.0\RepeticaoFor.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\bin\Debug\net6.0\RepeticaoFor.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\RepeticaoFor.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\RepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\RepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\RepeticaoFor.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\RepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\RepeticaoFor.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\refint\RepeticaoFor.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\RepeticaoFor.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\RepeticaoFor.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\RepeticaoFor\obj\Debug\net6.0\ref\RepeticaoFor.dll

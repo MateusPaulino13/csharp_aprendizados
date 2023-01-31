@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\bin\Debug\net6.0\PrimeiroPrograma.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\refint\PrimeiroPrograma.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\PrimeiroPrograma\obj\Debug\net6.0\ref\PrimeiroPrograma.dll
