@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\bin\Debug\net6.0\ProdutoEstoque.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\refint\ProdutoEstoque.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\ProdutoEstoque.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\ProdutoEstoque\obj\Debug\net6.0\ref\ProdutoEstoque.dll
