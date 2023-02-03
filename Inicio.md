@@ -7,6 +7,7 @@ Resumidamente este repositório servirá para meus ensinamentos em C#, no moment
 ## Referências
 
  - [Curso de C# Udemy](https://www.udemy.com/course/programacao-orientada-a-objetos-csharp/)
+ - [Documentação C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 
 
 ## Autores
