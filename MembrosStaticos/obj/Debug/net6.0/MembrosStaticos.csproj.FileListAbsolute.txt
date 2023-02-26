@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\bin\Debug\net6.0\MembrosStaticos.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\bin\Debug\net6.0\MembrosStaticos.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\bin\Debug\net6.0\MembrosStaticos.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\bin\Debug\net6.0\MembrosStaticos.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\bin\Debug\net6.0\MembrosStaticos.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\MembrosStaticos.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\MembrosStaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\MembrosStaticos.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\MembrosStaticos.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\MembrosStaticos.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\MembrosStaticos.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\refint\MembrosStaticos.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\MembrosStaticos.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\MembrosStaticos.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\MembrosStaticos\obj\Debug\net6.0\ref\MembrosStaticos.dll

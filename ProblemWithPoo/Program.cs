@@ -27,11 +27,8 @@ namespace ProblemWittPoo
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             // processamento de dados
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
-
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaX = x.CalcularArea();
+            double areaY = y.CalcularArea();
 
             //saída de dados
             Console.WriteLine($"Área do triângulo X = {areaX.ToString("F3", CultureInfo.InvariantCulture)}");

@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\bin\Debug\net6.0\Fixacao.exe
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\bin\Debug\net6.0\Fixacao.deps.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\bin\Debug\net6.0\Fixacao.runtimeconfig.json
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\bin\Debug\net6.0\Fixacao.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\bin\Debug\net6.0\Fixacao.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\Fixacao.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\Fixacao.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\Fixacao.AssemblyInfo.cs
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\Fixacao.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\refint\Fixacao.dll
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\Fixacao.pdb
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\Fixacao.genruntimeconfig.cache
+C:\Users\mateu\Documents\Aulas Programação\Curso Udemy\C#\Fixacao\obj\Debug\net6.0\ref\Fixacao.dll
